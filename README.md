@@ -33,12 +33,20 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 - Take AI prototypes to production — reliability, latency, cost control, monitoring.
 - Improve performance and maintainability of existing AI codebases.
 
-## 🤝 Open To
+## 🎯 Where I've Applied It
 
-- Founding and senior AI engineer roles — remote, full-time or contract.
-- Consulting on LLM systems already in production: evaluation, retrieval quality, cost and latency.
-- Technical due diligence on AI products — does it work, and how would you know.
-- Collaboration on open tooling for LLM evaluation.
+| Domain | What that involved |
+|---|---|
+| **Consumer AI products** | Realtime voice interfaces, personalization engines, content safety and moderation |
+| **Industrial data** | ERP / PIM / document normalization, knowledge graphs, retrieval across large product catalogs |
+| **Media & learning** | Source-grounded answers over video and document archives, cited back to the exact segment |
+| **B2B automation** | LLM integration into existing stacks, data pipelines, ROI and adoption measurement |
+| **Model evaluation** | Blind benchmarking harnesses, bias controls, regression testing across configurations |
+
+## 📜 Certifications
+
+Building Transformer-Based NLP Applications · Advanced NLP Techniques · Generative AI with Diffusion Models — **NVIDIA**
+Supervised Machine Learning: Regression and Classification — **Coursera**
 
 ## 🌍 Languages
 
