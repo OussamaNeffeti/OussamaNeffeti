@@ -43,11 +43,6 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 | **B2B automation** | LLM integration into existing stacks, data pipelines, ROI and adoption measurement |
 | **Model evaluation** | Blind benchmarking harnesses, bias controls, regression testing across configurations |
 
-## 📜 Certifications
-
-Building Transformer-Based NLP Applications · Advanced NLP Techniques · Generative AI with Diffusion Models — **NVIDIA**
-Supervised Machine Learning: Regression and Classification — **Coursera**
-
 ## 🌍 Languages
 
 English — fluent · French — fluent · Arabic — native
