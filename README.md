@@ -33,12 +33,12 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 - Take AI prototypes to production — reliability, latency, cost control, monitoring.
 - Improve performance and maintainability of existing AI codebases.
 
-## 🧭 Current Direction
+## 🤝 Open To
 
-- Multi-model systems that route work by stakes rather than betting on one provider.
-- Evaluation methods that hold up when someone else runs them.
-- Retrieval that stays accurate as the underlying data grows and shifts.
-- Realtime voice interfaces that work outside demo conditions.
+- Founding and senior AI engineer roles — remote, full-time or contract.
+- Consulting on LLM systems already in production: evaluation, retrieval quality, cost and latency.
+- Technical due diligence on AI products — does it work, and how would you know.
+- Collaboration on open tooling for LLM evaluation.
 
 ## 🌍 Languages
 
