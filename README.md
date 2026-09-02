@@ -46,4 +46,4 @@ English — fluent · French — fluent · Arabic — native
 
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/oussamaneffeti)
+oussama@proofoftalk.io · [LinkedIn](https://linkedin.com/in/oussamaneffeti)
