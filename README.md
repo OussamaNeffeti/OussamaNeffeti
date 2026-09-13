@@ -24,9 +24,9 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 | **Languages** | Python · TypeScript · JavaScript · SQL · C++ |
 | **LLMs and Agents** | LLM orchestration · AI agents · LangChain · LangGraph · NLP · prompt engineering · fine-tuning |
 | **Retrieval** | RAG · GraphRAG · vector search · knowledge graphs · pgvector · Neo4j |
-| **Backend** | Node.js · REST APIs · PostgreSQL · MongoDB · MySQL |
+| **Backend** | Node.js · FastAPI · REST APIs · PostgreSQL · Supabase · MongoDB · MySQL |
 | **Frontend** | Next.js · React · React Native |
-| **Infra and Automation** | Docker · CI/CD · cloud deployment · n8n · Claude Code · cost optimization |
+| **Infra and Automation** | Docker · CI/CD · Vercel · cloud deployment · n8n · Claude Code · cost optimization |
 
 ## 📈 Activity
 
