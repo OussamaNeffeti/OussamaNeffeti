@@ -7,13 +7,9 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 
 > Most repositories here are private — client and company code lives in their repos.
 
-## ⚙️ Production Workflow
-
-| **Data** | → | **Retrieval** | → | **Orchestration** | → | **Evaluation** | → | **Deploy** |
-|---|---|---|---|---|---|---|---|---|
-| ingestion · cleaning · schema | | vector · graph · hybrid | | routing · agents · tools | | benchmarks · error analysis | | APIs · CI/CD · monitoring |
-
 ## 🧱 Core Stack
+
+![Tech stack](https://skillicons.dev/icons?i=py,ts,js,cpp,nextjs,react,nodejs,fastapi,postgres,mongodb,mysql,supabase,docker,vercel,git)
 
 | Area | Tools |
 |---|---|
