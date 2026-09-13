@@ -16,23 +16,23 @@
 
 <table>
   <tr>
-    <td valign="top">🎯&nbsp;<b>Focus</b></td>
+    <td valign="top"><b>Focus</b></td>
     <td>Generative AI, LLM applications, AI agents, retrieval systems, AI strategy, and AI product engineering</td>
   </tr>
   <tr>
-    <td valign="top">💡&nbsp;<b>Strengths</b></td>
+    <td valign="top"><b>Strengths</b></td>
     <td>
       <code>LLM orchestration</code> <code>AI agents &amp; multi-agent systems</code> <code>tool calling &amp; MCP</code> <code>RAG</code> <code>GraphRAG</code> <code>knowledge graphs</code> <code>vector search</code> <code>context engineering</code> <code>LLM evals &amp; benchmarking</code> <code>real-time voice (STT/TTS)</code> <code>cost &amp; latency optimization</code>
     </td>
   </tr>
   <tr>
-    <td valign="top">⚙️&nbsp;<b>Business&nbsp;Automation</b></td>
+    <td valign="top"><b>Business&nbsp;Automation</b></td>
     <td>
       <code>AI &amp; agentic workflows</code> <code>custom AI agents</code> <code>marketing &amp; sales automation</code> <code>customer support</code> <code>business operations</code>
     </td>
   </tr>
   <tr>
-    <td valign="top">🧭&nbsp;<b>Working&nbsp;style</b></td>
+    <td valign="top"><b>Working&nbsp;style</b></td>
     <td>Measure before claiming: clear pipelines, rigorous evaluation, maintainable systems</td>
   </tr>
 </table>
@@ -54,15 +54,15 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">🧠&nbsp;<b>LLM applications</b><br/>Orchestration, routing, tool use, and agentic workflows.</td>
-    <td width="50%" valign="top">🔎&nbsp;<b>Retrieval over private data</b><br/>Vector search, knowledge graphs, or both.</td>
+    <td width="50%" valign="top"><b>LLM applications</b><br/>Orchestration, routing, tool use, and agentic workflows.</td>
+    <td width="50%" valign="top"><b>Retrieval over private data</b><br/>Vector search, knowledge graphs, or both.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">📊&nbsp;<b>Evaluation harnesses</b><br/>Model and prompt changes measured, not guessed.</td>
-    <td width="50%" valign="top">🚀&nbsp;<b>Prototype to production</b><br/>Reliability, latency, cost control, and monitoring.</td>
+    <td width="50%" valign="top"><b>Evaluation harnesses</b><br/>Model and prompt changes measured, not guessed.</td>
+    <td width="50%" valign="top"><b>Prototype to production</b><br/>Reliability, latency, cost control, and monitoring.</td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">🔧&nbsp;<b>AI codebase improvement</b><br/>Better performance and maintainability for existing AI systems.</td>
+    <td colspan="2" valign="top"><b>AI codebase improvement</b><br/>Better performance and maintainability for existing AI systems.</td>
   </tr>
 </table>
 
