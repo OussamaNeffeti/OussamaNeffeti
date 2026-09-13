@@ -21,15 +21,11 @@
   </tr>
   <tr>
     <td valign="top"><b>Strengths</b></td>
-    <td>
-      <code>LLM orchestration</code> <code>AI agents &amp; multi-agent systems</code> <code>tool calling &amp; MCP</code> <code>RAG</code> <code>GraphRAG</code> <code>knowledge graphs</code> <code>vector search</code> <code>context engineering</code> <code>LLM evals &amp; benchmarking</code> <code>real-time voice (STT/TTS)</code> <code>cost &amp; latency optimization</code>
-    </td>
+    <td>LLM orchestration, AI agents &amp; multi-agent systems, tool calling &amp; MCP, RAG, GraphRAG, knowledge graphs, vector search, context engineering, LLM evals &amp; benchmarking, real-time voice (STT/TTS), cost &amp; latency optimization</td>
   </tr>
   <tr>
     <td valign="top"><b>Business&nbsp;Automation</b></td>
-    <td>
-      <code>AI &amp; agentic workflows</code> <code>custom AI agents</code> <code>marketing &amp; sales automation</code> <code>customer support</code> <code>business operations</code>
-    </td>
+    <td>AI &amp; agentic workflows, custom AI agents, marketing &amp; sales automation, customer support, business operations</td>
   </tr>
   <tr>
     <td valign="top"><b>Working&nbsp;style</b></td>
