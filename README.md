@@ -11,7 +11,7 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 - **Focus:** Generative AI, LLM applications, AI agents, retrieval systems, AI strategy, and AI product engineering.
 - **Strengths:** LLM orchestration, AI agents & multi-agent systems, tool calling & MCP, RAG, GraphRAG, knowledge graphs, vector search, context engineering, LLM evals & benchmarking, real-time voice (STT/TTS), cost & latency optimization.
 - **Business Automation:** AI & agentic workflows, custom AI agents, marketing & sales automation, customer support, business operations.
-- **Working style:** measure before claiming — clear pipelines, rigorous evaluation, maintainable systems.
+- **Working style:** measure before claiming — clear pipelines, rigorous evaluation, maintainable systems, AI-assisted development with Claude Code.
 
 > Most repositories here are private — client and company code lives in their repos.
 
@@ -21,13 +21,12 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 
 | Area | Tools |
 |---|---|
-| **Languages & Data** | Python · TypeScript · JavaScript · SQL · C++ |
-| **LLM & Agents** | LLM orchestration · AI agents · LangChain · LangGraph · NLP · prompt engineering · fine-tuning · Claude Code |
+| **Languages** | Python · TypeScript · JavaScript · SQL · C++ |
+| **LLMs and Agents** | LLM orchestration · AI agents · LangChain · LangGraph · NLP · prompt engineering · fine-tuning |
 | **Retrieval** | RAG · GraphRAG · vector search · knowledge graphs · pgvector · Neo4j |
-| **Evaluation** | Blind pairwise benchmarking · bias controls · Elo scoring · regression testing |
-| **Voice & Speech** | Streaming speech-to-text · text-to-speech · realtime pipelines |
-| **Backend & Product** | Next.js · React · React Native · Node.js · PostgreSQL · MongoDB · MySQL · REST APIs |
-| **Infra & Automation** | Docker · CI/CD · cloud deployment · n8n · cost optimization |
+| **Backend** | Node.js · REST APIs · PostgreSQL · MongoDB · MySQL |
+| **Frontend** | Next.js · React · React Native |
+| **Infra and Automation** | Docker · CI/CD · cloud deployment · n8n · cost optimization |
 
 ## 📈 Activity
 
