@@ -2,7 +2,8 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 
 - **Focus:** LLM applications, AI agents, retrieval systems, and AI product engineering.
 - **Experience:** production AI systems delivered end to end — architecture through deployment.
-- **Strengths:** LLM orchestration, agent design, RAG and knowledge graphs, evaluation and benchmarking, realtime voice, cost and latency tuning.
+- **Strengths:** LLM orchestration, AI agents & multi-agent systems, tool calling & MCP, RAG, GraphRAG, knowledge graphs, vector search, LLM evals & benchmarking, real-time voice (STT/TTS), cost & latency optimization.
+- **Automation:** AI automation, custom AI agent development, workflow automation, marketing & sales automation, customer support automation, AI-powered business processes.
 - **Working style:** measure before claiming — clear pipelines, rigorous evaluation, maintainable systems.
 
 > Most repositories here are private — client and company code lives in their repos.
