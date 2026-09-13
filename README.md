@@ -6,13 +6,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=I+design%2C+build%2C+and+ship+AI+systems;LLM+orchestration+%C2%B7+AI+agents+%C2%B7+RAG;From+prototype+to+production;Business+automation+with+AI+agents" alt="I design, build, and ship AI systems" />
 </p>
 
-I design, build, and ship AI systems that move beyond prototypes into products people rely on — end to end, from software architecture and technical leadership through deployment. My work sits at the intersection of large language models, agentic systems, retrieval, and production engineering.
+<p align="center">
+  I design, build, and ship AI systems that move beyond prototypes into products people rely on —<br/>
+  end to end, from software architecture and technical leadership through deployment.<br/>
+  My work sits at the intersection of <b>large language models</b>, <b>agentic systems</b>, <b>retrieval</b>, and <b>production engineering</b>.
+</p>
 
-- **Focus:** Generative AI, LLM applications, AI agents, retrieval systems, AI strategy, and AI product engineering.
-- **Strengths:** LLM orchestration, AI agents & multi-agent systems, tool calling & MCP, RAG, GraphRAG, knowledge graphs, vector search, context engineering, LLM evals & benchmarking, real-time voice (STT/TTS), cost & latency optimization.
-- **Business Automation:** AI & agentic workflows, custom AI agents, marketing & sales automation, customer support, business operations.
-- **Working style:** measure before claiming — clear pipelines, rigorous evaluation, maintainable systems.
+<br/>
 
+<table>
+  <tr>
+    <td valign="top">🎯&nbsp;<b>Focus</b></td>
+    <td>Generative AI, LLM applications, AI agents, retrieval systems, AI strategy, and AI product engineering</td>
+  </tr>
+  <tr>
+    <td valign="top">💡&nbsp;<b>Strengths</b></td>
+    <td>
+      <code>LLM orchestration</code> <code>AI agents &amp; multi-agent systems</code> <code>tool calling &amp; MCP</code> <code>RAG</code> <code>GraphRAG</code> <code>knowledge graphs</code> <code>vector search</code> <code>context engineering</code> <code>LLM evals &amp; benchmarking</code> <code>real-time voice (STT/TTS)</code> <code>cost &amp; latency optimization</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">⚙️&nbsp;<b>Business&nbsp;Automation</b></td>
+    <td>
+      <code>AI &amp; agentic workflows</code> <code>custom AI agents</code> <code>marketing &amp; sales automation</code> <code>customer support</code> <code>business operations</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">🧭&nbsp;<b>Working&nbsp;style</b></td>
+    <td>Measure before claiming — clear pipelines, rigorous evaluation, maintainable systems</td>
+  </tr>
+</table>
+
+> [!NOTE]
 > Most repositories here are private — client and company code lives in their repos.
 
 ## 🧱 Core Stack
@@ -28,21 +53,28 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 | **Frontend** | Next.js · React · React Native |
 | **Infra and Automation** | Docker · CI/CD · Vercel · cloud deployment · n8n · Claude Code · cost optimization |
 
-## 📈 Activity
-
-<img src="https://streak-stats.demolab.com?user=OussamaNeffeti&hide_border=true&background=FFFFFF00&ring=6366F1&fire=6366F1&currStreakNum=6366F1&currStreakLabel=6366F1&sideNums=6366F1&sideLabels=8B949E&dates=8B949E&stroke=8B949E" alt="GitHub contribution streak" />
-
 ## 🛠️ Services
 
-- Design and build LLM applications — orchestration, routing, tool use, agentic workflows.
-- Build retrieval systems over private data, using vector search, knowledge graphs, or both.
-- Set up evaluation harnesses so model and prompt changes are measured, not guessed.
-- Take AI prototypes to production — reliability, latency, cost control, monitoring.
-- Improve performance and maintainability of existing AI codebases.
+<table>
+  <tr>
+    <td width="50%" valign="top">🧠&nbsp;<b>LLM applications</b><br/>Orchestration, routing, tool use, and agentic workflows.</td>
+    <td width="50%" valign="top">🔎&nbsp;<b>Retrieval over private data</b><br/>Vector search, knowledge graphs, or both.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">📊&nbsp;<b>Evaluation harnesses</b><br/>Model and prompt changes measured, not guessed.</td>
+    <td width="50%" valign="top">🚀&nbsp;<b>Prototype to production</b><br/>Reliability, latency, cost control, and monitoring.</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">🔧&nbsp;<b>AI codebase improvement</b><br/>Better performance and maintainability for existing AI systems.</td>
+  </tr>
+</table>
 
 ## 🌍 Languages
 
-English — fluent · French — fluent · Arabic — native
+<img src="https://img.shields.io/badge/English-Fluent-4F46E5?style=for-the-badge&labelColor=0F172A" alt="English — fluent" />
+<img src="https://img.shields.io/badge/French-Fluent-4F46E5?style=for-the-badge&labelColor=0F172A" alt="French — fluent" />
+<img src="https://img.shields.io/badge/Arabic-Native-4F46E5?style=for-the-badge&labelColor=0F172A" alt="Arabic — native" />
+<img src="https://img.shields.io/badge/German-Intermediate-6366F1?style=for-the-badge&labelColor=0F172A" alt="German — intermediate" />
 
 ## 📫 Contact
 
