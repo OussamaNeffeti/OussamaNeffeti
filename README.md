@@ -68,9 +68,14 @@
 
 ## 🌍 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/English-Fluent-4F46E5?style=for-the-badge&labelColor=0F172A" alt="English, fluent" />&nbsp;<img src="https://img.shields.io/badge/French-Fluent-4F46E5?style=for-the-badge&labelColor=0F172A" alt="French, fluent" />&nbsp;<img src="https://img.shields.io/badge/Arabic-Native-4F46E5?style=for-the-badge&labelColor=0F172A" alt="Arabic, native" />&nbsp;<img src="https://img.shields.io/badge/German-Intermediate-6366F1?style=for-the-badge&labelColor=0F172A" alt="German, intermediate" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="140"><b>English</b><br/>Fluent</td>
+    <td align="center" width="140"><b>French</b><br/>Fluent</td>
+    <td align="center" width="140"><b>Arabic</b><br/>Native</td>
+    <td align="center" width="140"><b>German</b><br/>Intermediate</td>
+  </tr>
+</table>
 
 ## 📫 Contact
 
