@@ -59,7 +59,7 @@
 
 ## 📫 Contact
 
-<a href="mailto:oussamaneffeti88@gmail.com"><img src="https://img.shields.io/badge/oussamaneffeti88%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email oussamaneffeti88@gmail.com" /></a>
+<a href="mailto:oussamaneffeti8@gmail.com"><img src="https://img.shields.io/badge/oussamaneffeti8%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email oussamaneffeti8@gmail.com" /></a>
 <a href="https://linkedin.com/in/oussamaneffeti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <p align="center">
