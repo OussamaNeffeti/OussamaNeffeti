@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4f46e5&height=180&section=header&text=Oussama%20Neffeti&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer&descSize=18&descAlignY=58" alt="Oussama Neffeti — AI Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4f46e5&height=180&section=header&text=Oussama%20Neffeti&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer&descSize=18&descAlignY=58" alt="Oussama Neffeti, AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I design, build, and ship AI systems that move beyond prototypes into products people rely on —<br/>
+  I design, build, and ship AI systems that move beyond prototypes into products people rely on,<br/>
   end to end, from software architecture and technical leadership through deployment.<br/>
   My work sits at the intersection of <b>large language models</b>, <b>agentic systems</b>, <b>retrieval</b>, and <b>production engineering</b>.
 </p>
@@ -33,12 +33,12 @@
   </tr>
   <tr>
     <td valign="top">🧭&nbsp;<b>Working&nbsp;style</b></td>
-    <td>Measure before claiming — clear pipelines, rigorous evaluation, maintainable systems</td>
+    <td>Measure before claiming: clear pipelines, rigorous evaluation, maintainable systems</td>
   </tr>
 </table>
 
 > [!NOTE]
-> Most repositories here are private — client and company code lives in their repos.
+> Most repositories here are private. Client and company code lives in their repos.
 
 ## 🧱 Core Stack
 
@@ -72,7 +72,7 @@
 ## 🌍 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/English-Fluent-4F46E5?style=for-the-badge&labelColor=0F172A" alt="English — fluent" />&nbsp;<img src="https://img.shields.io/badge/French-Fluent-4F46E5?style=for-the-badge&labelColor=0F172A" alt="French — fluent" />&nbsp;<img src="https://img.shields.io/badge/Arabic-Native-4F46E5?style=for-the-badge&labelColor=0F172A" alt="Arabic — native" />&nbsp;<img src="https://img.shields.io/badge/German-Intermediate-6366F1?style=for-the-badge&labelColor=0F172A" alt="German — intermediate" />
+  <img src="https://img.shields.io/badge/English-Fluent-4F46E5?style=for-the-badge&labelColor=0F172A" alt="English, fluent" />&nbsp;<img src="https://img.shields.io/badge/French-Fluent-4F46E5?style=for-the-badge&labelColor=0F172A" alt="French, fluent" />&nbsp;<img src="https://img.shields.io/badge/Arabic-Native-4F46E5?style=for-the-badge&labelColor=0F172A" alt="Arabic, native" />&nbsp;<img src="https://img.shields.io/badge/German-Intermediate-6366F1?style=for-the-badge&labelColor=0F172A" alt="German, intermediate" />
 </p>
 
 ## 📫 Contact
