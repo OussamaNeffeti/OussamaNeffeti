@@ -40,11 +40,11 @@
 | Area | Tools |
 |---|---|
 | **Languages** | Python · TypeScript · JavaScript · SQL · C++ |
-| **LLMs and Agents** | LLM orchestration · AI agents · LangChain · LangGraph · NLP · prompt engineering · fine-tuning |
+| **LLMs and Agents** | OpenAI · Anthropic · Gemini · LangChain · LangGraph · NLP · prompt engineering · fine-tuning |
 | **Retrieval** | RAG · GraphRAG · vector search · knowledge graphs · pgvector · Neo4j |
 | **Backend** | Node.js · FastAPI · REST APIs · PostgreSQL · Supabase · MongoDB · MySQL |
 | **Frontend** | Next.js · React · React Native |
-| **Infra and Automation** | Docker · CI/CD · Vercel · cloud deployment · n8n · Claude Code · cost optimization |
+| **Infra and Automation** | Docker · CI/CD · Vercel · cloud deployment · n8n · Claude Code |
 
 ## 🌍 Languages
 
