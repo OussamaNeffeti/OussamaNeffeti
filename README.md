@@ -37,9 +37,6 @@
   </tr>
 </table>
 
-> [!NOTE]
-> Most repositories here are private. Client and company code lives in their repos.
-
 ## 🧱 Core Stack
 
 ![Tech stack](https://skillicons.dev/icons?i=py,ts,js,cpp,nextjs,react,nodejs,fastapi,postgres,mongodb,mysql,supabase,docker,vercel,git)
