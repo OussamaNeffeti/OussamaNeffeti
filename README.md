@@ -17,17 +17,22 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 
 ## 🧱 Core Stack
 
-![Tech stack](https://skillicons.dev/icons?i=py,ts,js,cpp,nextjs,react,nodejs,fastapi,postgres,mongodb,mysql,supabase,docker,vercel,git)
+![Tech stack](https://skillicons.dev/icons?i=py,ts,js,cpp,nextjs,react,vite,tailwind,nodejs,fastapi,postgres,supabase,mongodb,mysql,docker,githubactions,vercel,git&perline=9)
 
 | Area | Tools |
 |---|---|
-| **Languages & Data** | Python · TypeScript · JavaScript · SQL · C++ |
-| **LLM & Agents** | LLM orchestration · AI agents · LangChain · LangGraph · NLP · prompt engineering · fine-tuning · Claude Code |
-| **Retrieval** | RAG · GraphRAG · vector search · knowledge graphs · pgvector · Neo4j |
-| **Evaluation** | Blind pairwise benchmarking · bias controls · Elo scoring · regression testing |
-| **Voice & Speech** | Streaming speech-to-text · text-to-speech · realtime pipelines |
-| **Backend & Product** | Next.js · React · React Native · Node.js · PostgreSQL · MongoDB · MySQL · REST APIs |
-| **Infra & Automation** | Docker · CI/CD · cloud deployment · n8n · cost optimization |
+| **Languages** | Python · TypeScript · JavaScript · SQL · C++ |
+| **LLMs & Generative AI** | OpenAI · Anthropic Claude · Google Gemini · LiteLLM · Vercel AI SDK · prompt engineering · context engineering · fine-tuning · NLP |
+| **AI Agents & Orchestration** | LLM orchestration · AI agents · LangChain · LangGraph · MCP · tool calling · E2B sandboxes · Claude Code |
+| **Retrieval** | RAG · GraphRAG · vector search · knowledge graphs · web search (Tavily) |
+| **Evaluation** | AI evaluation & benchmarking · LLM-as-judge · Arena-Hard · blind pairwise testing · Elo / Bradley-Terry ranking · pytest |
+| **Voice & Speech** | Speech recognition (STT) · text-to-speech (TTS) · realtime streaming pipelines |
+| **Backend & APIs** | FastAPI · Pydantic · Node.js · REST APIs · Drizzle ORM |
+| **Frontend & Mobile** | Next.js · React · React Native / Expo · Vite · Tailwind CSS |
+| **Databases** | PostgreSQL · pgvector · Supabase · MongoDB · Neo4j · MySQL |
+| **Cloud & DevOps** | Docker · GitHub Actions (CI/CD) · Vercel · Fly.io · Netlify · Git |
+| **Automation** | n8n · AI automation · agentic automation · webhooks |
+| **Product & Leadership** | Software architecture · technical leadership · AI strategy · product development |
 
 ## 📈 Activity
 
