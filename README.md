@@ -46,6 +46,17 @@
 | **Frontend** | Next.js · React · React Native |
 | **Infra and Automation** | Docker · CI/CD · Vercel · cloud deployment · n8n · Claude Code |
 
+## 🌍 Languages
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>English</b><br/>Fluent</td>
+    <td align="center" width="140"><b>French</b><br/>Fluent</td>
+    <td align="center" width="140"><b>Arabic</b><br/>Native</td>
+    <td align="center" width="140"><b>German</b><br/>Basic</td>
+  </tr>
+</table>
+
 ## 📫 Contact
 
 <a href="mailto:oussamaneffeti8@gmail.com"><img src="https://img.shields.io/badge/oussamaneffeti8%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email oussamaneffeti8@gmail.com" /></a>
