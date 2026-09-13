@@ -50,22 +50,6 @@
 | **Frontend** | Next.js · React · React Native |
 | **Infra and Automation** | Docker · CI/CD · Vercel · cloud deployment · n8n · Claude Code · cost optimization |
 
-## 🛠️ Services
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><b>LLM applications</b><br/>Orchestration, routing, tool use, and agentic workflows.</td>
-    <td width="50%" valign="top"><b>Retrieval over private data</b><br/>Vector search, knowledge graphs, or both.</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><b>Evaluation harnesses</b><br/>Model and prompt changes measured, not guessed.</td>
-    <td width="50%" valign="top"><b>Prototype to production</b><br/>Reliability, latency, cost control, and monitoring.</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top"><b>AI codebase improvement</b><br/>Better performance and maintainability for existing AI systems.</td>
-  </tr>
-</table>
-
 ## 🌍 Languages
 
 <table>
