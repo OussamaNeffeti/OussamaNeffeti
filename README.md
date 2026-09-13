@@ -1,9 +1,8 @@
-I design, build, and ship AI systems that move beyond prototypes into products people rely on. My work sits at the intersection of large language models, agentic systems, retrieval, and production engineering.
+I design, build, and ship AI systems that move beyond prototypes into products people rely on — end to end, from software architecture and technical leadership through deployment. My work sits at the intersection of large language models, agentic systems, retrieval, and production engineering.
 
-- **Focus:** LLM applications, AI agents, retrieval systems, and AI product engineering.
-- **Experience:** production AI systems delivered end to end — architecture through deployment.
+- **Focus:** Generative AI, LLM applications, AI agents, retrieval systems, AI strategy, and AI product engineering.
 - **Strengths:** LLM orchestration, AI agents & multi-agent systems, tool calling & MCP, RAG, GraphRAG, knowledge graphs, vector search, LLM evals & benchmarking, real-time voice (STT/TTS), cost & latency optimization.
-- **Automation:** AI automation, custom AI agent development, workflow automation, marketing & sales automation, customer support automation, AI-powered business processes.
+- **Business Automation:** AI & agentic workflows, custom AI agents, marketing & sales, customer support, operations.
 - **Working style:** measure before claiming — clear pipelines, rigorous evaluation, maintainable systems.
 
 > Most repositories here are private — client and company code lives in their repos.
@@ -18,13 +17,13 @@ I design, build, and ship AI systems that move beyond prototypes into products p
 
 | Area | Tools |
 |---|---|
-| **Languages & Data** | Python · TypeScript · JavaScript · SQL |
-| **LLM & Agents** | LLM orchestration · AI agents · LangChain · LangGraph · prompt engineering · fine-tuning |
+| **Languages & Data** | Python · TypeScript · JavaScript · SQL · C++ |
+| **LLM & Agents** | LLM orchestration · AI agents · LangChain · LangGraph · NLP · prompt engineering · fine-tuning · Claude Code |
 | **Retrieval** | RAG · GraphRAG · vector search · knowledge graphs · pgvector · Neo4j |
 | **Evaluation** | Blind pairwise benchmarking · bias controls · Elo scoring · regression testing |
 | **Voice & Speech** | Streaming speech-to-text · text-to-speech · realtime pipelines |
-| **Backend & Product** | Next.js · React Native · Node.js · PostgreSQL · MongoDB · REST APIs |
-| **Infra & MLOps** | Docker · CI/CD · cloud deployment · observability · cost optimization |
+| **Backend & Product** | Next.js · React · React Native · Node.js · PostgreSQL · MongoDB · MySQL · REST APIs |
+| **Infra & Automation** | Docker · CI/CD · cloud deployment · n8n · cost optimization |
 
 ## 🛠️ Services
 
